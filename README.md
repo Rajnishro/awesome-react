@@ -264,6 +264,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tools
 
 ##### React Projects
+* [Amazing-React-Projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
 * [structor - User interface builder for React](https://github.com/ipselon/structor)
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
 * [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
